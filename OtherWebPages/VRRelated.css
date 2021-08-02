@@ -1,0 +1,68 @@
+body {
+    background-image: url(../images/background.png);
+}
+
+.top5 {
+
+    position: absolute;
+
+    top: 0px;
+    left: 0px;
+}
+
+.OpenSource4 {
+    position: absolute;
+
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(32,32,32);
+    top: 10px;
+    left: 700px;
+
+}
+
+.Contact4 {
+    position: absolute;
+
+    font-weight: bolder;
+
+    font-size: 25px;
+
+    color:rgb(32,32,32);
+
+    top: 10px;
+
+    left: 300px;
+
+}
+
+.VRRelated4 {
+    position: absolute;
+
+    font-weight:bolder;
+
+    font-size: 25px;
+
+    color:rgb(32,32,32);
+
+    top: 10px;
+
+    left: 500px;
+}
+
+.Home4 {
+    position: absolute;
+
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(32,32,32);
+    top: 10px;
+    left: 100px;
+}
+
+h1 {
+    position: absolute;
+
+    top: 300px;
+    left: 700px;
+}

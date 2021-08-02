@@ -1,0 +1,105 @@
+body {
+    background-image: url(images/background.png);
+}
+
+.poggingchamping {
+
+    position: absolute;
+    top: 8px;
+
+     color: dimgrey;
+}
+
+.VRRelated {
+    position: absolute;
+
+    font-weight:bolder;
+
+    font-size: 25px;
+
+    color:rgb(32,32,32);
+
+    top: 10px;
+
+    left: 500px;
+}
+
+.OpenSource {
+    position: absolute;
+
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(32,32,32);
+    top: 10px;
+    left: 700px;
+
+}
+
+.Contact {
+    position: absolute;
+
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(32,32,32);
+    top: 10px;
+    left: 300px;
+}
+
+.Home {
+    position: absolute;
+
+    font-weight: bolder;
+    font-size: 25px;
+    color:rgb(32,32,32);
+    top: 10px;
+    left: 100px;
+}
+
+.top {
+
+    position: absolute;
+
+    top: 0px;
+    left: 0px;
+}
+
+h1 {
+
+
+    position: absolute;
+
+    top: 50px;
+
+    left: 85px;
+
+    font-weight: bolder;
+
+    color: rgb(77, 77, 77);
+
+
+    size: 95px;
+
+}
+
+p {
+    position: absolute;
+
+    font: message-box;
+    top: 140px;
+    left: 100px;
+    font-size: 18px;
+}
+
+.webowner {
+    position: absolute;
+    top: 450px;
+    right: 40px;
+
+}
+
+h2 {
+    font: bolder;
+    position: absolute;
+    top: 350px;
+    right: 100px;
+}
