@@ -32,8 +32,8 @@ body{
   font:normal 75% Arial, Helvetica, sans-serif;
 }
 
-.h1{
-	font-family: system;
+#particles-js {
+	font-family: 'Press Start 2P', cursive;
 }
 
 canvas{
