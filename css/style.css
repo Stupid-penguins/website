@@ -32,6 +32,10 @@ body{
   font:normal 75% Arial, Helvetica, sans-serif;
 }
 
+.h1{
+	font-family: system;
+}
+
 canvas{
   display:block;
   vertical-align:bottom;
