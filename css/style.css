@@ -33,6 +33,10 @@ body{
 }
 
 #HomePageTitle {
+	position: absolute;
+	left: 100px;
+	top: 150px;
+	font-size: 30px;
 	color: rgb(255,255,255);
 	font-family: 'Press Start 2P', cursive;
 }
