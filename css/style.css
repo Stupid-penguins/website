@@ -33,7 +33,7 @@ body{
 }
 
 #HomePageTitle {
-	filter: blur(4px);
+	filter: blur(2px);
 	position: absolute;
 	left: 250px;
 	top: 100px;
