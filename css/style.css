@@ -52,10 +52,8 @@ body{
 }
 
 .TopBar {
-	position: absolute;
-	top: 0;
 	color: darkgray;
-	height: 160px;
+	height: 60px;
 }
 
 
