@@ -51,6 +51,15 @@ body{
 
 }
 
+#AboutUs {
+	position: absolute;
+	left: 210px;
+	top: 160px;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 7px;
+	color: white;
+}
+
 #GameRelated {
 	position: absolute;
 	right: 40px;
