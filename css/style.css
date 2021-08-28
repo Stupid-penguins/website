@@ -51,11 +51,14 @@ body{
 
 }
 
-#TopBar {
+.TopBar {
 	overflow: hidden;
 	position: fixed;
 	top: 0;
 	width: 100%;
+}
+
+.TopBar {
 	color: darkgray;
 	height: 60px;
 }
