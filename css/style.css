@@ -33,7 +33,17 @@ body{
   font:normal 75% Arial, Helvetica, sans-serif;
 }
 
+#DeveloperButton {
+	position: absolute;
+	right: 40px;
+	top: 30px;
+
+	color: white;
+
+}
+
 #TopBar {
+	color: darkgray;
 	height: 60px;
 }
 
