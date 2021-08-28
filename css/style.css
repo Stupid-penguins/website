@@ -33,6 +33,10 @@ body{
   font:normal 75% Arial, Helvetica, sans-serif;
 }
 
+#TopBar {
+	height: 50px;
+}
+
 #HomePageTitle {
 	position: absolute;
 	left: 250px;
