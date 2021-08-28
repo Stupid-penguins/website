@@ -60,6 +60,11 @@ body{
 	color: white;
 }
 
+#Developers {
+	height: 80px;
+	background-color: white;
+}
+
 #GameRelated {
 	position: absolute;
 	right: 40px;
