@@ -37,6 +37,8 @@ body{
 	position: absolute;
 	right: 40px;
 	top: 30px;
+	height: 30px;
+	width; 30px;
 
 	color: white;
 
@@ -49,8 +51,8 @@ body{
 
 #HomePageTitle {
 	position: absolute;
-	left: 250px;
-	top: 70px;
+	left: 220px;
+	top: 100px;
 	font-size: 30px;
 	color: rgb(255,255,255);
 	font-family: 'Press Start 2P', cursive;
