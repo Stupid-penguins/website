@@ -53,8 +53,6 @@ body{
 
 #TopBar {
 	position: fixed;
-	top: 0;
-	left: 0;
 	color: darkgray;
 	height: 60px;
 }
