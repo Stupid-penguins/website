@@ -74,6 +74,10 @@ body{
 	color: white;
 }
 
+#EloniPFP {
+	border-radius: 15px 15px;
+}
+
 #ContactInfo {
 	position: absolute;
 	right: 340px;
