@@ -33,6 +33,13 @@ body{
   font:normal 75% Arial, Helvetica, sans-serif;
 }
 
+#CompanyLogo {
+	position: absolute;
+
+	left: 5px;
+	top: 5px;
+}
+
 #DeveloperButton {
 	position: absolute;
 	right: 540px;
