@@ -51,11 +51,9 @@ body{
 
 }
 
-#TopBar {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
+#TopBar a:hover{
+
+	color: darkgray;
 	height: 60px;
 }
 
