@@ -35,7 +35,7 @@ body{
 
 #DeveloperButton {
 	position: absolute;
-	right: 540px;
+	right: 40px;
 	top: 20px;
 	font-size: 20px;
 	font-family: 'Press Start 2P', cursive;
@@ -52,7 +52,7 @@ body{
 #HomePageTitle {
 	position: absolute;
 	left: 200px;
-	top: 1150px;
+	top: 140px;
 	font-size: 30px;
 	color: rgb(255,255,255);
 	font-family: 'Press Start 2P', cursive;
