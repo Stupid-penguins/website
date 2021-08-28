@@ -53,8 +53,8 @@ body{
 
 #AboutUs {
 	position: absolute;
-	left: 160px;
-	top: 160px;
+	left: 100px;
+	top: 190px;
 	font-family: 'Press Start 2P', cursive;
 	font-size: 10px;
 	color: white;
@@ -90,7 +90,7 @@ body{
 #HomePageTitle {
 	position: absolute;
 	left: 120px;
-	top: 140px;
+	top: 60px;
 	font-size: 30px;
 	color: rgb(255,255,255);
 	font-family: 'Press Start 2P', cursive;
