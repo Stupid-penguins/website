@@ -52,15 +52,14 @@ body{
 }
 
 .TopBar {
-	position: fixed;
+	position: absolute;
 	top: 0;
-	width: 100%;
-}
-
-.TopBar {
 	color: darkgray;
 	height: 60px;
 }
+
+
+
 
 #HomePageTitle {
 	position: absolute;
