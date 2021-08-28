@@ -51,7 +51,7 @@ body{
 
 }
 
-#TopBar a:hover {
+#TopBar {
 	overflow: hidden;
 	position: fixed;
 	top: 0;
