@@ -51,6 +51,24 @@ body{
 
 }
 
+#GameRelated {
+	position: absolute;
+	right: 140px;
+	top: 20px;
+	font-size: 20px;
+	font-family: 'Press Start 2P', cursive;
+	color: white;
+}
+
+#ContactInfo {
+	position: absolute;
+	right: 340px;
+	top: 20px;
+	font-size: 20px;
+	font-family: 'Press Start 2P', cursive;
+	color: white;
+}
+
 #TopBar {
 	position: fixed;
 	top: 0;
