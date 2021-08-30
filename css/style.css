@@ -60,7 +60,7 @@ body{
 	color: white;
 }
 
-#Developers {
+#Developer {
 	height: 380px;
 	background-color: white;
 }
@@ -75,7 +75,21 @@ body{
 }
 
 #EloniPFP {
+	position: absolute;
+	top: 890px;
+
+	left: 25px;
 	border-radius: 200px 200px;
+
+}
+
+.Eloni {
+	position: absolute;
+	top: 1140px;
+	left: 100px;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 19px;
+
 }
 
 #ContactInfo {
