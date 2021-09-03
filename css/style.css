@@ -132,6 +132,23 @@ body{
 
 }
 
+#ImbackPFP {
+    position: absolute;
+    top: 890px;
+    left: 1290px;
+    border-radius: 200px;
+
+}
+
+.Imback {
+    position: absolute;
+    top: 1140px;
+    left: 1350px;
+
+    font-size: 19px;
+    font-family: 'Press Start 2P', cursive;
+}
+
 #ContactInfo {
 	position: absolute;
 	right: 340px;
