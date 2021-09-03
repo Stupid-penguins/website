@@ -174,3 +174,22 @@ canvas{
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 }
+
+@media screen and (min-width: 1920px) {
+    #VeastPFP {
+    	position: absolute;	top: 1200px; left: 1200px;
+    }
+
+    .Veast {
+        position: absolute;	top: 1460px; left: 1290px;
+    }
+
+    #ImbackPFP {
+        position: absolute;        top: 1200px;        left: 1590px;
+    }
+
+    #AboutUs {
+        font-size: 13px;
+    }
+
+}
