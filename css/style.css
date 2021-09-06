@@ -74,6 +74,23 @@ body{
 	color: white;
 }
 
+#ImbackPFP {
+    position: absolute;
+    top: 890px;
+    left: 1290px;
+    border-radius: 200px;
+
+}
+
+.Imback {
+    position: absolute;
+    top: 1140px;
+    left: 1350px;
+
+    font-size: 19px;
+    font-family: 'Press Start 2P', cursive;
+}
+
 #EloniPFP {
 	position: absolute;
 	top: 890px;
@@ -140,14 +157,6 @@ body{
 
 }
 
-.Imback {
-    position: absolute;
-    top: 1140px;
-    left: 1350px;
-
-    font-size: 19px;
-    font-family: 'Press Start 2P', cursive;
-}
 
 #ContactInfo {
 	position: absolute;
@@ -192,21 +201,48 @@ canvas{
 	background-repeat: no-repeat;
 }
 
-@media screen and (min-width: 1920px) {
+@media screen and (min-width: 1860px) {
     #VeastPFP {
     	position: absolute;	top: 1200px; left: 1200px;
     }
-
     .Veast {
         position: absolute;	top: 1460px; left: 1290px;
     }
-
     #ImbackPFP {
         position: absolute;        top: 1200px;        left: 1590px;
     }
-
+    .Imback {
+        position:absolute;top: 1460px;left: 1660px;
+    }
     #AboutUs {
         font-size: 13px;
     }
+    .DevelopersLabel {
+    	position: absolute;
+    	top: 1350px;
+    	left: 770PX;
+    	font-size: 26px;
+    }
+    #EloniPFP {
+    	position: absolute;
+    	top: 1200px;
+    	left: 25px;
+    }
+    .Eloni {
+    	position: absolute;
+    	top: 1460px;
+    	left: 100px;
+    }
+    #DuckPFP {
+    	position:absolute;
+    	top: 1200px;
+    	left: 370px;
+    }
+    .Ducky {
+    	position: absolute;
+    	top: 1460px;
+    	left: 346px;
 
+    }
 }
+
